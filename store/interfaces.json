@@ -46,7 +46,7 @@
   "summary-installments": {
     "component": "SummaryInstallments",
     "content": {
-      "$ref": "app:vtex.checkout-summary#/definitions/SummaryInstallments"
+      "$ref": "app:digitalriverpartnerus.checkout-summary#/definitions/SummaryInstallments"
     }
   }
 }
